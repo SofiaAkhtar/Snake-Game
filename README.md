@@ -1,4 +1,4 @@
-# Pygame Snake Game
+# Snake Game
 
 This is a simple implementation of the classic Snake game using the Pygame library in Python. The game consists of a snake that moves around the screen, trying to eat food to grow longer. The objective is to survive as long as possible without colliding with the boundaries of the screen or the snake's own body.
 
